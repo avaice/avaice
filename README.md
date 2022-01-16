@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @avaice
 - 👀 I’m interested in ... Unity, C#, VB, JS, Python, 日本語プログラミング言語ひまわり
 - 🌱 I’m currently learning ... C#, JS
-- 📫 How to reach me ... https://twitter.com/avaice_
+- 📫 How to reach me ... Twitter
 
 <!---
 avaice/avaice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
