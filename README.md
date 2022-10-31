@@ -1,7 +1,7 @@
 プログラミング勉強中です<br>
 - 👋 Hi, I’m @avaice
-- 👀 I’m interested in ... Unity, C#, VB, JS, Python, 日本語プログラミング言語ひまわり
-- 🌱 I’m currently learning ... C#, JS
+- 👀 I’m interested in ... TypeScript, Unity, C#, VisualBasic.NET, JavaScript, Python, 日本語プログラミング言語ひまわり
+- 🌱 I’m currently learning ... C#, TypeScript
 - 📫 How to reach me ... Twitter
 
 <!---
