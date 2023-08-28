@@ -1,6 +1,7 @@
 プログラミング勉強中です
 
-Homepage(New!) -> https://w.cho-ice.xyz/ 
+Zenn(New!) => https://zenn.dev/avaice
+Homepage => https://w.cho-ice.xyz/ 
 
 - 👋 Hi, I’m @avaice
 - 👀 I’m interested in ... TypeScript, Unity, C#, VisualBasic.NET, JavaScript, Python, 日本語プログラミング言語ひまわり
