@@ -1,11 +1,16 @@
 プログラミング勉強中です
 
-Zenn(New!) => https://zenn.dev/avaice
+Qiita(New!) => https://qiita.com/avaice
+
+Zenn => https://zenn.dev/avaice
+
 Homepage => https://w.cho-ice.xyz/ 
 
+Twitter => https://twitter.com/_avaice
+
 - 👋 Hi, I’m @avaice
-- 👀 I’m interested in ... TypeScript, Unity, C#, VisualBasic.NET, JavaScript, Python, 日本語プログラミング言語ひまわり
-- 🌱 I’m currently learning ... C#, TypeScript
+- 👀 I’m interested in ... Bun, TypeScript, Python, 日本語プログラミング言語ひまわり
+- 🌱 I’m currently learning ... TypeScript, Python
 - 📫 How to reach me ... Twitter
 
 <!---
