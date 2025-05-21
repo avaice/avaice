@@ -1,7 +1,5 @@
 Frontend Mengineer 🍜
 
-X → https://x.com/_avaice
-
 
 
 <!---
