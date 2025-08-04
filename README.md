@@ -1,4 +1,6 @@
-Frontend Mengineer ♥️ TypeScript, React, 🍜
+Frontend Mengineer
+
+♥️ TypeScript, React, 🍜
 
 
 
