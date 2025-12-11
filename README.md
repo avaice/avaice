@@ -1,4 +1,4 @@
-Frontend Mengineer
+[Frontend Mengineer](https://www.cho-ice.xyz/blog/obkikx1rn/)
 
 ♥️ TypeScript, React, 🍜
 
